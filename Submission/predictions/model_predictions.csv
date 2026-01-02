@@ -1,0 +1,3 @@
+Order_ID,Quantity,Price,Discount,Store_S2,Store_S3,Category_Electronics,Category_Furniture,Actual_Sales,Predicted_Sales
+9,2,22000,0.2,1,0,1,0,35200,34161.125
+2,3,1500,0.05,1,0,0,0,4275,6798.25
